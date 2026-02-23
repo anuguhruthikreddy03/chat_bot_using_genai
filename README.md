@@ -30,13 +30,6 @@ LLM: Google Gemini (gemini-2.5-flash)
 
 Environment Management: python-dotenv
 
-📂 Project Structure
-AI-Research-Assistant/
-│
-├── chatapp.py          # Main Streamlit application
-├── requirements.txt    # Project dependencies
-├── .env                # Environment variables (not committed)
-└── README.md
 ⚙️ Installation & Setup
 1. Clone the Repository
 git clone https://github.com/your-username/AI-Research-Assistant.git
