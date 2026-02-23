@@ -32,8 +32,6 @@ Environment Management: python-dotenv
 
 ⚙️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/your-username/AI-Research-Assistant.git
-cd AI-Research-Assistant
 2. Create a Virtual Environment (Recommended)
 python -m venv venv
 
